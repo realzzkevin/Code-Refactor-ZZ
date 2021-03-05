@@ -22,7 +22,7 @@ header h1 {
     display: inline-block;
     font-size: 48px;
 }
-/*change .seo to span*/
+/*change selecter seo from class to id*/
 #seo {
     color: #d9dcd6;
 }
@@ -53,14 +53,10 @@ p {
     font-size: 16px;
 }
 /*rewrite .hero, change from background to object*/
-.hero {
+#hero {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
-    /*
-    background-image: url("../images/digital-marketing-meeting.jpg");
-    background-size: cover;
-    background-position: center;*/
     object-fit: cover;
     object-position:center;
     display:block;
@@ -71,7 +67,7 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
-/* created new .contenct-card */
+/* created new .contenct-cards */
 .content-cards {
     margin-bottom: 20px;
     padding: 50px;
