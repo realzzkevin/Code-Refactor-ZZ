@@ -1,7 +1,9 @@
 # Code Refactoring
 
-## Goal:
+## Description:
 
+Refactor HTML and CSS source code for Horisen. The goal is to improve accessibility and sustainability of the source codes, by apply semantic structure to them.
+The website should also be optimized for search engines. After the refactor, all layouts and functionalities of the original website will remain the same.
 
 ## Issues in the original code:
 
