@@ -13,7 +13,7 @@ The website should also be optimized for search engines. After the refactor, all
  -  Redundant CSS selectors and properties in CSS file.
  - CSS file structure isn't follow semantic structure.
 
-## My modifications
+## modifications
 
  - [x] Change title from "website" to "horiseon" for search engine optimization. 
  - [x] Use sematic elements such as `<header>`,`<footer>`,`<nav>  `etc. to replace most `<div>`elements.
@@ -22,10 +22,21 @@ The website should also be optimized for search engines. After the refactor, all
  - [x] Add `alt` attributes in all `<img>` elements
  - [x] Consolidat and reorganize CSS selector and properties to follow semantic structure.
  
-## resutle
+## Sample Codes
 
-[Horiseon](https://realzzkevin.github.io/Code-Refactor-ZZ/)
+HTML code after refacyoring. 
 
-[Git Hub repository](https://github.com/realzzkevin/Code-Refactor-ZZ/settings)
+![HTML Code after refactoring.](./assets/screenshot/html-after.png )
 
-![enter image description here](sfdasf)
+CSS code after refactoring.
+
+![CSS code after refactoring.](./assets/screenshot/css-after.png)
+
+## Links
+
+[Horiseon website after code refactoring ](https://realzzkevin.github.io/Code-Refactor-ZZ/)
+
+[Horiseon project Git Hub repository](https://github.com/realzzkevin/Code-Refactor-ZZ/settings)
+
+
+![Horiseon page after refactoring](./assets/screenshot/Code-Refactor-ZZ.png)
